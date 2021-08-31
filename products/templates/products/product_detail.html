@@ -29,7 +29,7 @@
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="product-details-container mb-5 mt-md-5">
                     <p class="mb-0">{{ product.name }}</p>
-                    <p class="lead mb-0 text-left font-weight-bold">${{ product.price }}</p>
+                    <p class="lead mb-0 text-left font-weight-bold">$  {{ product.price }}</p>
                     {% if product.category %}
                                             <p class="small mt-1 mb-0">
                                                 <a class="text-muted" href="{% url 'products' %}?category={{ product.category.name }}">
@@ -51,11 +51,12 @@
                             <div class="col-12">
                                 <p><strong>Size:</strong></p>
                                 <select class="form-control rounded-0 w-50" name="product_size" id='id_product_size'>
-                                    <option value="34">XS</option>
-                                    <option value="36">S</option>
-                                    <option value="38" selected>M</option>
-                                    <option value="40">L</option>
-                                    <option value="">XL</option>
+                                    <option value="32">EU 32</option>
+                                    <option value="34">EU 34</option>
+                                    <option value="36">EU 36</option>
+                                    <option value="38">EU 38</option>
+                                    <option value="40">EU 40</option>
+                                    <option value="42">EU 42</option>
                                 </select>
                             </div>
                             {% endif %}
