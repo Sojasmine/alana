@@ -78,6 +78,12 @@ span {
     border: 1px solid black !important;
 }
 
+ /* for logo font free delivery */
+.bg-black {
+    color:goldenrod; 
+    background: #000 !important;
+    
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
