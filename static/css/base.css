@@ -129,7 +129,9 @@ hr {
     background: black;
 }
 
-.btt-link {
+.btt-link,
+.update-link,
+.remove-item {
     cursor: pointer;
 }
 
