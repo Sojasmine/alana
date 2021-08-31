@@ -3,12 +3,12 @@
     font-family: "KG I And Love And You Font";
     src: url("../fonts/KgIAndLoveAndYou-XMR9.ttf") format("truetype");
 }
+
 /* font face for the logo subtitle */
 @font-face {
     font-family: "Sweetheart Font";
     src: url("../fonts/Sweetheart-owp3d.otf") format("truetype"); 
 }
-
 
 html {
     height: 100%;
@@ -25,11 +25,6 @@ body {
 /* Logo title */
 h1 {
     font-family: 'KG I And Love And You Font';  
-}
-/* Logo subtitle */
-span {
-    font-family: 'Sweetheart Font';
-    color:goldenrod;
 }
 
 /* from Bulma */
@@ -96,6 +91,11 @@ span {
 	z-index: -1;
 }
 
+
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
 
 hr {
     border-top: 1px dashed goldenrod;
