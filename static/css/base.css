@@ -84,6 +84,27 @@ span {
     background: #000 !important;
     
 }
+
+/* products background */
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
+}
+
+
+hr {
+    border-top: 1px dashed goldenrod;
+}
+
+.card {
+    border: 1px solid #d9d9d9;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
