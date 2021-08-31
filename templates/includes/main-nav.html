@@ -17,10 +17,10 @@
                 Wedding dresses
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Elegant</a>
-                <a href="" class="dropdown-item">Classic</a>
-                <a href="" class="dropdown-item">Colored</a>
-                <a href="" class="dropdown-item">All Wedding Dresses</a>
+                <a href="{% url 'products' %}?category=elegant" class="dropdown-item">Elegant</a>
+                <a href="{% url 'products' %}?category=classic" class="dropdown-item">Classic</a>
+                <a href="{% url 'products' %}?category=colored" class="dropdown-item">Colored</a>
+                <a href="{% url 'products' %}?category=elegant,classic,colored" class="dropdown-item">All Wedding Dresses</a>
             </div>
         </li>
 
@@ -29,9 +29,9 @@
                 Accessories
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Shoes</a>
-                <a href="" class="dropdown-item">Tiara  &amp; Veils</a>
-                <a href="" class="dropdown-item">View all Accessories</a>
+                <a href="{% url 'products' %}?category=shoes" class="dropdown-item">Shoes</a>
+                <a href="{% url 'products' %}?category=tiara_veils" class="dropdown-item">Tiara  &amp; Veils</a>
+                <a href="{% url 'products' %}?category=shoes,tiara_veils" class="dropdown-item">View all Accessories</a>
             </div>
         </li>
 
@@ -40,9 +40,9 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Fall Collection 2021</a>
-                <a href="" class="dropdown-item">Sale</a>    
-                <a href="" class="dropdown-item">Special deals</a>
+                <a href="{% url 'products' %}?category=fall_collection_2021" class="dropdown-item">Fall Collection 2021</a>
+                <a href="{% url 'products' %}?category=sale" class="dropdown-item">Sale</a>    
+                <a href="{% url 'products' %}?category=fall_collection_2021,sale" class="dropdown-item">Special deals</a>
             </div>
         </li>
     </ul>
