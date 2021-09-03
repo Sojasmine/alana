@@ -57,8 +57,8 @@ h1 {
 
 
 .btn-outline-black {
-    background: white;
-    color: black !important; /* use important to override link colors for <a> elements */
+    background: black;
+    color: white!important; /* use important to override link colors for <a> elements */
     border: 1px solid black;
 }
 
@@ -66,7 +66,7 @@ h1 {
 .btn-outline-black:active,
 .btn-outline-black:focus {
     background: black;
-    color: white!important;
+    color: goldenrod !important;
 }
 
 .shop-now-button:hover,
@@ -76,7 +76,7 @@ h1 {
 .btn-black:active,
 .btn-black:focus {
     background: #222;
-    color: goldenrod;
+    color: white;
 }
 
 .text-black {
