@@ -24,12 +24,17 @@ body {
     font-family: 'Prata';
 }
 
-/* Logo title */
+/* Logo title and subtitle */
 
 h1 {
-    font-family: 'KG I And Love And You Font';  
+    font-family: 'KG I And Love And You Font';
+    color: goldenrod;
 }
 
+.navbar-header {
+    font-family: 'Sweetheart Font';
+    color: goldenrod;
+}
 /* from Bulma */
 
 .icon {
@@ -338,4 +343,9 @@ input[name='q']::placeholder {
     body {
         height: calc(100vh - 116px);
     }
+}
+
+.fa-cart-arrow-down {
+    font-size: 160px;
+    color: black;
 }
