@@ -127,7 +127,6 @@
             </div>
         </div>
     </header>
-
     {% if messages %}
     <div class="message-container">
         {% for message in messages %}
@@ -145,13 +144,21 @@
             {% endfor %}
         </div>
     {% endif %}
-    
+
     {% block page_header %}
     {% endblock %}
-
+   
     {% block content %}
     {% endblock %}
-
+    <!--Footer here-->
+    <div class="footer">
+        <p class="social-icons">Contact us:
+        <a href="mailto:hege@example.com">alana@example.com</a> |
+        Follow us :  
+        <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>  |    
+        <a href="https://www.instagram.com/"><i class="fab fa-instagram-square"></i></a>   
+        </p>
+      </div>
     {% block postloadjs %}
     <script type="text/javascript">
         $('.toast').toast('show');
