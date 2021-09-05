@@ -47,7 +47,7 @@ h1 {
 }
 
 .logo-font {
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .main-logo-link {
@@ -383,13 +383,6 @@ input[name='q']::placeholder {
         padding: .25rem .5rem !important;
     }
 
-
-/* Empty shopping cart */
-.fa-cart-arrow-down {
-    font-size: 160px;
-    color: black;
-}
-
 /* Footer */
 .footer {
     position: fixed;
@@ -418,4 +411,3 @@ input[name='q']::placeholder {
   }
   
   
- 
