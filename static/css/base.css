@@ -47,7 +47,7 @@ h1 {
 }
 
 .logo-font {
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 
 .main-logo-link {
