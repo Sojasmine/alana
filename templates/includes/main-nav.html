@@ -45,7 +45,7 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black" href="#" id="specials-link" data-toggle="dropdown"
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="specials-link" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
                 Special Offers
             </a>
@@ -56,6 +56,12 @@
                 <a href="{% url 'products' %}?category=fall_collection_2021,sale" class="dropdown-item">Special
                     deals</a>
             </div>
+        </li>
+        <li class="nav-item dropdown">
+            <a href="{% url 'contact' %}?category=fall_collection_2021"class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="contact-link" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Contact Us
+            </a>      
         </li>
     </ul>
 </div>
