@@ -6,8 +6,6 @@ ___
 
 [Live Site](https://alana-app.herokuapp.com/)
 
-Images here: 
-
 
 ___
 

@@ -26,7 +26,8 @@
 
    * To find or search for items that are related to the wedding.
 
-   > There is a search bar on the top of the website that user can enter anykey related to the wedding.
+
+   > There is a search bar on the top of the website that users can enter any key related to the wedding
 
     ![search](screenshot/search.jpg)
 
@@ -44,7 +45,8 @@
 
    * To do be able to shop without creating an account
 
-   > User can make order without registration. Sometimea it can be easily just shop and avoiding that steps. 
+   > User can make an order without registration. Sometimes it can be easily just shop and avoiding that steps. 
+ 
 
     ![checkout](screenshot/check.jpeg)
 
@@ -53,7 +55,7 @@
 
    * To be able to register an account if I want to.
 
-> user can sign in with the sing in form 
+  > user can sign in with the sing in the form 
 
  ![signin](screenshot/signup.jpeg)
 
@@ -64,7 +66,7 @@
 
   * Navigate smoothly through the site again
 
-  > The webiste was designed to navigate easily. 
+  > The website was designed to navigate easily. 
 
   * To be able to sign in without a problem
 
@@ -76,15 +78,14 @@
 
   * To be able to create a new password if I forgot it.
   
-  > In the sign in page, user can clik on the link 'Forgot you're password and provide a new password". 
-
+  > On the sign-in page, the user can click on the link 'Forgot you're password and provide a new password". 
   ![password](screenshot/password.jpeg)
 
 
 
   * To find details about my previous order details.
 
-  > An order history is available under the profile page for an user with an account. 
+  > An order history is available under the profile page for a user with an account. 
 
   ![profile](screenshot/prof.jpeg)
 
@@ -92,11 +93,11 @@
 
   * To find information about me on my profile and update it.
 
-  > The user information can easily found on the profile page"
+  > The user information can easily be found on the profile page"
 
   * Find a wedding dress or shoes with my sizes.
 
-  > user can select size of an iten under the product detail. 
+  > User can select the size of an item under the product detail. 
 
   ![size](screenshot/size.jpeg)
 
@@ -104,9 +105,9 @@
 
 
 
-  * Search for product sorted by price, name, rating and category.
+  * Search for products sorted by price, name, rating and category.
   
-  > The sorting bar is applied on all products category.
+  > The sorting bar is applied to all products category.
 
   ![size](screenshot/sort.jpg)
 
@@ -120,7 +121,7 @@
 
   * Add and delete items.
 
-  > Admin can use the Product maangement form to add a product
+  > Admin can use the Product Management form to add a product
 
   ![add](screenshot/add.jpeg)
 
@@ -134,11 +135,11 @@
 
   * Manage Category
 
-  > Admin can add and remove category from the djando administration account.
+  > Admin can add and remove a category from the Django administration account.
 
-  * update products description and price.
+  *  Update products description and price.
 
-  > With the edit putton, admin can update any product without problem.
+  > With the edit button, the admin can update any product without a problem.
 
   ![update](screenshot/update.jpg)
 
@@ -146,7 +147,7 @@
 
   * Make sure that it is only me who can manage the products item.
 
-  > If an user attempt to do anything thant they have persimssion , a warning toast message come up.
+  > If a user attempts to do anything that they have permission for, a warning toast message comes up.
 
   * Access orders details for the shopper.
 
@@ -154,47 +155,85 @@
 
   * Make sure that the user can contact me for help or other information.
 
-  > Contact information is available under the contact Us page. 
+  > Contact information is available under the Contact Us page. 
 
 
   ## Functionality testing
 
 
-* The navbar stays fixed ohthe top of the pahes on all devices. 
+* The navbar stays fixed on the top of the pages on all devices.  
 
-* The delivery banner stay fixed on the top of all the pages. 
+* The delivery banner stays fixed on the top of all the pages. 
 
 * All internal links are tested and working
 
 * Error page 404, 500 are tested and working. 
 
-* The mail address and phone number are not working. They are used just for test. 
+* The mail address and phone number are not working. It is only for test. 
 
-* User and admin can login with their username and password. 
+* Users and admin can log in with their username and password. 
 
 * User and admin can sign out.
 
-* New user can registred a new account.
+* New users can registred a new account.
 
-* A confirmation e-mai is working by new user. 
+*  A confirmation e-mail is working by a new user.
 
-* A confirmation of orders are sent to the users mail.
+* Confirmation of orders are sent to the users' mail
 
 ![update](screenshot/confi.jpg)
 
 
 * The demo credit card number is working. 
 
-* Accroding to CRUD user is able to:
+* According to CRUD user can:
 
- *  Create an order oand an account
+ *  Create order and an account
+
+ > Confirmation e-mail from a user
+
+ ![mail](screenshot/confmail.png)
+
+
 
  * Can update and delete item from shopping cart
 
+ > Can update and delete the item from the shopping cart
+
+
+ Image before editing: 
+
+
+![update](screenshot/edit2.png)
+
+
+
+After editing: 
+
+
+![update](screenshot/edit3.png)
+
+
+
+
  * User can update their profile
 
- * Admin can add and delete product frpn django admninistrationa and on the site.
+ > In this example, the user update his street address from Frotorspvagen 44 to Snomosgatan 666
 
+Before: 
+
+ ![update](screenshot/edit.png)
+
+
+
+After:
+
+![update](screenshot/edit1.png)
+
+
+ * Admin can add and delete the product from Django administration and on the site.
+
+ >  I tested uplod an no image product on the site. 
 
 
 
@@ -210,6 +249,8 @@ All HTML document were formatted.
 > No error 
 
 * Cart
+
+> No error
 
 * Product
 
@@ -237,6 +278,16 @@ All HTML document were formatted.
 >No error
 
 
+# Stripe webhook
+
+
+* Communicatiom between the app and webhook works perfectly. See latest result from stripe
+
+
+![webhook](screenshot/stripe.jpg)
+
+
+
 # Responsiveness
 
 * Motorola
@@ -257,4 +308,4 @@ All HTML document were formatted.
 
 # Performance testing
 
-![performance](screenshot/performance.jpeg)
+![performance](screenshot/performance.jpg)
