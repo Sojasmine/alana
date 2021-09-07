@@ -44,8 +44,6 @@ This website offers more than 100 items in their store.
     
    * [Design](#Design)
 
-   * [Project goals](#Project-goals)
-
  2. [Wireframe](#Wireframe)
 
  3. [Database](#Database)
@@ -223,15 +221,16 @@ This website offers more than 100 items in their store.
 
    * Sign Up
      * The sign up page contains 5 fields to fill to create an account.
-
-     ![Navbar](screenshot/Error.jpg)
+    ![Navbar](screenshot/sign_up.jpg)
+     
 
   
   * 403,403,500 error
      * Error pages 403, 404 and 505 will be displayed if users by mistake click on a broken or dead link. 
      
-
-     ![Navbar](screenshot/sign_up.jpg)
+     
+     ![Navbar](screenshot/Error.jpg)
+     
 
 
 
@@ -333,7 +332,6 @@ This website offers more than 100 items in their store.
 
 
 
-
  ## Database
 
   * Sqlite3 used during development in gitpod
@@ -343,7 +341,7 @@ This website offers more than 100 items in their store.
 
   * Models
 
-  ![Database Schema](#) from [dbdiagram](https://dbdiagram.io/) .
+  ![Database Schema](screenshot/databas.png) from [dbdiagram](https://dbdiagram.io/) .
 
  
  [Back to Table of contents](#Table-of-Contents)
@@ -385,7 +383,8 @@ This website offers more than 100 items in their store.
      * [Compressor](https://compressor.io/) to compress image.
      * Djando framework
      * pPostgresSQL 
-     * [Amazon]()
+     * [Amazon](https://aws.amazon.com/)
+     * [Jsonformatter](https://jsonformatter.curiousconcept.com/) to test out fixtures. 
     
     
 * Installed packages 
