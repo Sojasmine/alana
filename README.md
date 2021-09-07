@@ -1,104 +1,269 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# ALANA wedding dress 
+___
 
-Welcome Sojasmine,
+##  Full Stack Framework, Milestone 4
+___
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. The last update to this file was: **July 2, 2021**
+[Live Site](https://alana-app.herokuapp.com/)
 
-## Gitpod Reminders
+Images here: 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+___
 
-A blue button should appear to click: _Make Public_,
+###  Introduction
 
-Another blue button should appear to click: _Open Browser_.
+* Alana is a full-stack e-commerce web application for the future bride who wishes to buy a wedding dress, shoes, veil and tiara. 
+This website offers more than 100 items in their store.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* This project is the 4th of my Milestone to get the full stack developer diploma at Code Institute. This project was made for educational purposes only. 
 
-A blue button should appear to click: _Make Public_,
+* This full-stack web application was built by using Django web framework, HTML, CSS, Javascript and Python.
+* This website allows users to __Create__ an order, __Read__ order before checking out, __Update__  and __Delete__ item on their shopping cart. 
+* Admin has the CRUD functionality to do add, update, delete products on the site.  
 
-Another blue button should appear to click: _Open Browser_.
+* Please note that this website is not real. To test shopping on the web please use this card number: 
+   * Card number: 4242 4242 4242 4242
+   * Expiration date: 04/24 
+   * CVC: 242
+   * You can use any name but use an e-mail you can receive the registration confirmation for creating a new account and your order details. 
+   * Login information for the administrator/superuser will be provided when submitting this project.
+ 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+# Table of Contents
 
-To log into the Heroku toolbelt CLI:
+1. [User Experience](#user-Experience)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+   * [User Stories](#User-Stories)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+   * [Strategy](#Strategy)
 
-------
+   * [Scope](#Scope)
 
-## Release History
+   * [Structure](#Structure)
+    
+   * [Design](#Design)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+   * [Project goals](#Project-goals)
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+ 2. [Features](#Features)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+ 3. [Wireframe](#Wireframe)
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+ 4. [Database](#Database)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+ 5. [Technology Used](#Technology-Used)
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+ 6. [Testing](#Testing)
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+ 7. [Bugs](#Bugs)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+ 8. [Deployment](#Deployment)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+ 9. [Credits](#Credits)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+ ___
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+ ## User Experience
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+-  The main idea for the website is to sell:
+   * Wedding dresses
+   * Wedding Shoes
+   * Veils
+   * Tiara
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+ 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+ ### User Stories
 
-------
+- As a first time user, I want:
+   * To quickly understand the purpose of the website.
+   * To navigate through the site easily and clearly.
+   * To find or search for items that are related to the wedding.
+   * Contact support for help.
+   * To do be able to shop without creating an account 
+   * To be able to register an account if I want to.
+   
 
-## FAQ about the uptime script
+  
+- As a returning user, I want:
+   * Navigate smoothly through the site again
+   * To be able to sign in without a problem 
+   * To be able to create a new password if I forgot it.
+   * To find details about my previous order details.
+   * To find information about me on my profile and update it.
+   * Find a wedding dress or shoes with my sizes.
+   * Search for product sorted by price, name, rating and category.
+   
 
-**Why have you added this script?**
+ - As admin and business site owner I want to:
+   * Navigate on the site easily as all other users.
+   * Add and delete items.
+   * Manage Category
+   * update products description and price.
+   * Make sure that it is only me who can manage the products item.
+   * Access orders details for the shopper.
+   * Make sure that the user can contact me for help or other information. 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
+ ### Strategy
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+ - Project goals:
+   * Create a website that uses HTML, CSS, Javascript, Python, Django.
+   * Create a website that is easy to navigate and simple.
+   * Create a fully responsive site that is compatible with all devices.
+   * Creating a website that uses a relational database.
+   * Creating a website that uses Stripe.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+- Site owner goals:
+   * Create a secure e-commerce web application.
+   * Give the best experience to the user.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+### Scope
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+- Planned features:
+   * Responsive site and user-friendly on all devices.
+     * This site should be responsive with bootstrap.
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+   * Navbar
+     
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+     ![Navbar](screenshot/navbar.jpg)
 
-**Anything more?**
+     * The navbar is applied all over the pages.
+     * The navbar changes the layout to different devices. The menu is collapsible on mobile devices.
+     * The navbar contains a search bar, navbar menu, account and cart links.
+     * The search bar menu looks different when it reduces on mobile devices.
+     * Navbar menu: 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+     ![Navbar](screenshot/menu.jpg)
 
----
 
-Happy coding!
+
+   * Langing page
+      * In the middle of the page there is information about the new collection and a shopw now button that links to all the products items. 
+
+     ![Homepage](screenshot/Shop_now.jpg)
+
+
+   * Products page
+
+     * All the items with different categories are shwon in the product page.
+     * Shopper can use the sorting button to sort product by price, rating, name and category.
+
+
+     ![Navbar](screenshot/product_page.jpg)
+
+
+  * Product detail
+    * This page provides a clearly detail information to the user about the products.
+    * The name of the product.
+    * The rating, price, size if the product has size. 
+    * The quantity.
+    * Keep shopping and add to cart buttons.
+
+
+    ![Navbar](screenshot/product-detail.jpg)
+
+
+  * Shopping Cart
+    * When the shopping cart is empty , it showing a big cart icon and a text.
+
+    ![Navbar](screenshot/shopping-cart.jpg)
+
+
+    * When there is item in the shopping cart, it is showing details about your item.
+    * The total amount, the delivery information, the price, quantity, subtotal.
+    * User have a possibility to remove and update the shopping cart.
+
+
+    ![Navbar](screenshot/cart.jpg)
+  
+
+   * Profile
+    * User delivery information is show here in the profile page.
+    * Address, City, State, Phone number , postal code and country. 
+    * User can also update the user profile here. 
+
+    ![Navbar](screenshot/navbar.jpg)
+
+
+   * Contact Page
+    * The contact page is simple and easy to use.
+    * User can find the site phone number, support hours, e-mail and social link here. 
+
+
+    ![Navbar](screenshot/contact.jpg)
+
+
+   * Checkout page
+      * Here can user with an account add delivery information.
+      * User with account, theri information is filled automatically exceot their name.
+      * Order summary and payement details are shown here.
+
+      ![Navbar](screenshot/checkout.jpg)
+
+
+   * Product Management
+   * Sign In
+   * Sign Up
+
+
+   
+
+
+ ### Structure
+
+ ### Design
+
+ ### Project goals
+
+ ___
+
+ ## Features
+
+ ___
+
+ ## Wireframe
+
+ ___
+
+ ## Database
+
+ ___
+
+ ## Technology Used
+
+ ___
+
+ ## Testing
+
+ ___
+
+ ## Bugs
+
+ ___
+
+ ## Deployement 
+
+ ___
+
+ ## Credits
+
+
+ ___
+
+
+
+
+
+
+
+
+
+
+
+
+
