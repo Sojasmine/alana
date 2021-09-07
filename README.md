@@ -426,6 +426,8 @@ This website offers more than 100 items in their store.
 
  ## Testing
 
+  * Document for testing can be found [here](Testing.md)
+
 
 [Back to Table of contents](#Table-of-Contents)
  ___
@@ -629,13 +631,41 @@ Solution from tutor support:
  ___
 
  ## Credits
+ 
 
+ * Media: 
+
+   * A great thank to [pixabay](https://pixabay.com/) for free dowwloading of my images
+
+   * Description and name of my products were inspired by [jjshouse](https://www.jjshouse.se/) and [bhldn](https://www.bhldn.com/) .
+
+
+* Code: 
+
+  * A million thanks to Tim Nilson and Chris, Code institute tutors for the Boutique Ado project. I created my e-commerce based to the project Botique.
+
+  * Thanks to [fontspace](https://www.fontspace.com) for the fonts I used on my website. 
+
+  * Code snippet from [codepen](https://img.icons8.com/cute-clipart/100/000000/bug.png) for my error pages 403.404 and 500.
+
+
+* Support:
+
+  * Great thanks to Igor C, Kevin and Fatima from Code Institute for helping me to solve my problem. 
+
+  * Great thanks to [Anders Jansson](https://www.linkedin.com/in/maximoanders/) and my family for testing the functionality of my website. 
 
 
 [Back to Table of contents](#Table-of-Contents)
  ___
 
+[My Github page](https://github.com/Sojasmine/alana)
 
+
+[My website](https://alana-app.herokuapp.com/)
+
+
+September © 2021
 
 
 
