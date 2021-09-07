@@ -38,7 +38,7 @@ This website offers more than 100 items in their store.
 
    * [Strategy](#Strategy)
 
-   * [Scope](#Scope)
+   * [Features](#Features)
 
    * [Structure](#Structure)
     
@@ -46,11 +46,9 @@ This website offers more than 100 items in their store.
 
    * [Project goals](#Project-goals)
 
- 2. [Features](#Features)
+ 2. [Wireframe](#Wireframe)
 
- 3. [Wireframe](#Wireframe)
-
- 4. [Database](#Database)
+ 3. [Database](#Database)
 
  5. [Technology Used](#Technology-Used)
 
@@ -72,7 +70,7 @@ This website offers more than 100 items in their store.
    * Veils
    * Tiara
 
- 
+ [Back to Table of contents](#Table-of-Contents)
 
  ### User Stories
 
@@ -105,6 +103,7 @@ This website offers more than 100 items in their store.
    * Access orders details for the shopper.
    * Make sure that the user can contact me for help or other information. 
 
+[Back to Table of contents](#Table-of-Contents)
 
  ### Strategy
 
@@ -120,7 +119,9 @@ This website offers more than 100 items in their store.
    * Give the best experience to the user.
 
 
-### Scope
+[Back to Table of contents](#Table-of-Contents)
+
+### Features
 
 - Planned features:
    * Responsive site and user-friendly on all devices.
@@ -142,7 +143,7 @@ This website offers more than 100 items in their store.
 
 
 
-   * Langing page
+   * Landing page
       * In the middle of the page there is information about the new collection and a shopw now button that links to all the products items. 
 
      ![Homepage](screenshot/Shop_now.jpg)
@@ -183,16 +184,16 @@ This website offers more than 100 items in their store.
   
 
    * Profile
-    * User delivery information is show here in the profile page.
-    * Address, City, State, Phone number , postal code and country. 
-    * User can also update the user profile here. 
+     * User delivery information is show here in the profile page.
+     * Address, City, State, Phone number , postal code and country. 
+     * User can also update the user profile here. 
 
     ![Navbar](screenshot/navbar.jpg)
 
 
    * Contact Page
-    * The contact page is simple and easy to use.
-    * User can find the site phone number, support hours, e-mail and social link here. 
+     * The contact page is simple and easy to use.
+     * User can find the site phone number, support hours, e-mail and social link here. 
 
 
     ![Navbar](screenshot/contact.jpg)
@@ -207,53 +208,433 @@ This website offers more than 100 items in their store.
 
 
    * Product Management
-   * Sign In
+    * Admin can add product here directly from the site.
+
+     
+     ![Navbar](screenshot/manage-pro.jpg)
+
+
+   * Login In
+     * The login page is simple and easy to use. 
+
+
+     ![Navbar](screenshot/login.jpg)
+
+
    * Sign Up
+     * The sign up page contains 5 fields to fill to create an account.
+
+     ![Navbar](screenshot/Error.jpg)
+
+  
+  * 403,403,500 error
+     * Error pages 403, 404 and 505 will be displayed if users by mistake click on a broken or dead link. 
+     
+
+     ![Navbar](screenshot/sign_up.jpg)
 
 
-   
 
+  - Advanced feature
+
+  1. Add pagination.
+  1. Blog.
+  1. User leave feedback and rating.
+  1. Sign up to newsletters.
+  1. Possibility to save Credit card number on the profile page.
+    
+
+[Back to Table of contents](#Table-of-Contents)
 
  ### Structure
+     
+  * Bootstraps were used on each page.   
+  * A background image with a bride wearing a wedding dress will appear on the homepage which provides the user with clear information on what it is that I want them to buy.  
+  * Use black and goldenrod colours as the base on the site
+  * Buttons and links are created for the user to move from page to page.
+  * Toast message tells us every time we make changes like:
+         * Update profile information.
+         * Delete a product from the shopping cart.
+         *  Update shopping cart.
+         * An Error occurs.
+         * Add product to the shopping cart.
+  * Simple form for registration and login
+  * Navbar menu tell user where to navigate, the same on each page.
+  * 
+
+[Back to Table of contents](#Table-of-Contents)
 
  ### Design
+    
+  * Surface
+     * Colours:
 
- ### Project goals
+       - I choose black, white and golderond to reflect the beauty of  the webiste. 
 
- ___
+       - Text buttons and deivery banner har goldenrod with backgroun balck and grey.
 
- ## Features
+       - [Palette](https://coolors.co/) of the colors that I used:
 
+        
+       ![Navbar](screenshot/palette.png)
+
+
+       - Bootstrap colors:
+
+
+       ![Navbar](screenshot/arrow.png)
+
+    
+     * Typography :
+       
+       - KG I And Love And You Font used to styled the logo-font from [fontspace](https://www.fontspace.com/kg-i-and-love-and-you-font-f19145)
+
+       - Sweetheart Font used to for the logo-font subtitle from [fontpace]( https://www.fontspace.com/sweetheart-2-font-f65879)
+
+       - Prata used for the rest of the page from [Google font](https://fonts.google.com/specimen/Prata?query=prata)
+
+     
+     * Icons
+
+       - In this project, icons are provided by [Fontawesome](https://fontawesome.com/).
+
+     * Images
+
+       - [Compressor](https://compressor.io/)  and [Simpleimageresizer](http://www.simpleimageresizer.com/) used to reduce the size of the images without loosing the original quality. 
+       
+       - The background image of the landing page and all the images on the products were taken for free from [pixabay](https://pixabay.com/sv/)
+
+       - The product images was resize to 1000 x 1000. Images on this size can be zoomed. Tips from this [blog](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/) .
+
+       - All images has the same size and styles except the homepage background image.
+
+
+      * Defensive design
+
+        - More than 8 characters required for password by creating an account.
+
+        - Shopper can not order more than 100 items at once
+
+        - Credit card must be given when completing order.
+
+        - Only admin can add and make changes on the site. 
+ 
+ [Back to Table of contents](#Table-of-Contents)       
  ___
 
  ## Wireframe
 
+  * [All wireframes](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:2882963a-86d9-4e4f-a701-e195e4ae9503) are availabe here. 
+
+
+[Back to Table of contents](#Table-of-Contents)
+
  ___
 
+
+
+
  ## Database
+
+  * Sqlite3 used during development in gitpod
+
+  * Postgres used after deploying to Heroku
+
+
+  * Models
+
+  ![Database Schema](#) from [dbdiagram](https://dbdiagram.io/) .
+
+ 
+ [Back to Table of contents](#Table-of-Contents)
 
  ___
 
  ## Technology Used
+    
+  * Languages Used
 
- ___
+    
+     * HTML5 : for structure and the content for my project.
+ 
+     * CSS : provides the style of the HTML5 elements.
+
+     * Javascript : The language that makes the webpage alive.
+
+     * Jquery : used as the JavaScript functionality.
+
+     * Python : provides the backend of the project.
+
+
+* Frameworks and program used 
+
+     
+     * [Github](https://github.com/) for the version control.
+     * [Gitpod](https://gitpod.io/) is used to develop the project.
+     * [Git](https://git-scm.com/) used for version control to commit to Git and push to GitHub.
+     * [Heroku](https://www.heroku.com/) is the cloud platform to deploying the app.
+     * [Google Fonts](https://fonts.google.com/) to implement the fonts used. 
+     * [Fontspace](https://www.fontspace.com/) for font face.
+     * [Coolors](https://coolors.co/) to visualise colour scheme
+     * [Dbdiagram](https://dbdiagram.io/) for database layout
+     * [Miniwebtool](https://miniwebtool.com/) used to generate strong password and secure the appplication.
+     * [Jquery](http://code.jquery.com) for css library.
+     * [Materialize](https://materializecss.com/) used to make the site responsiveness. 
+     * [Balsamiq](https://balsamiq.com/) for mockup.
+     * [Simpleimageresizer](http://www.simpleimageresizer.com/) to resize image. 
+     * [Compressor](https://compressor.io/) to compress image.
+     * Djando framework
+     * pPostgresSQL 
+     * [Amazon]()
+    
+    
+* Installed packages 
+     
+    ```
+    pip3 install django
+    ```
+    
+    ```
+    pip3 install django-allauth==0.41.0
+     ```
+
+    ```
+    pip3 install pillow
+    ```
+ 
+    ```
+    pip3 install django-crispy-forms
+     ```
+
+    ```
+    pip3 install stripe
+     ```
+
+    ```
+    pip3 install django-countries
+     ```
+
+    ```
+    pip3 install psycopg2-binary
+    ```
+
+    ```
+    pip3 install gunicorn
+    ```
+
+  [Back to Table of contents](#Table-of-Contents)
 
  ## Testing
 
+
+[Back to Table of contents](#Table-of-Contents)
  ___
+
 
  ## Bugs
 
+**Problem loading fixtures** 
+
+![fixtures](screenshot/fixtures.jpg)
+
+
+* Solution: I changed format from from computer while downloading the jason files from UTF-8 BOM to UTF-8. See the image below: 
+
+
+From
+
+![fixtures](screenshot/json.png)
+
+
+to  
+
+  
+![fixtures](screenshot/json1.jpg)
+
+
+
+**Problem creating a stripe webhook endpoint**
+
+
+  ![stripe](screenshot/webhook.jpg)
+
+
+* Solution: I got help from stripe support to remove all events issuing form the event list. I was able to create a webhook endpoint after that.
+
+
+**Problem deploying to heroku**
+
+I tried to figured out what was wrong without success. I took contact with the tutorial and **Igor C** told me to have a look again after my secret key. The value of my secret was wrong.
+
+
+![heroku](screenshot/heroku_error.jpg)
+
+
+Solution from tutor support: 
+
+
+![heroku](screenshot/aws.jpg)
+
+
+[Back to Table of contents](#Table-of-Contents)
  ___
 
  ## Deployement 
 
+* Alana-app is deployed successfully to heroku and AWS using gipod, with version control in Github. The media files were uploaded manually to AWS. I run with some issues during deployement but everything went well att the end. 
+
+1. Github
+ 
+ * Create a github repo repository from Code Institute template. It will be the name of your project.
+
+ * Click the green'gitpod' 
+
+ * First thing to do: 
+
+   * Install django: pip3 install django
+
+   * Connect your app to django: django-admin startproject XXXX.
+
+   * create a file called 'runtime.txt'. It defines which version of python running on the server.
+
+   * Install allauth byrunning the CLI command __pip3 install django-allauth==0.41.0
+
+
+
+2. Deploy to [heroku](https://www.heroku.com/)
+
+
+   * Create a free account at heroku.com
+
+   * In the registration form , set your role to hobbyist and primary davelopment language as python
+
+   * Install the [heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) if you are not using Code Intsitute template
+
+   * Log in gitpod and type: heroku login
+
+   * Install these packages: 
+
+      * pip3 install psicopg2
+
+      * pip3 install gunicorn
+
+  * Run pip3 freeze --local > requirements.txt
+
+  - Create your app
+
+ * Import value from settings.py to Heroku Config Vars
+
+ * Disable Heroku from collecting static files by running: 
+
+    DISABLE_COLLECSTATIC=1
+
+* In settings.py, fill the ALLOWED_HOSTS APP with your herokuapp name
+
+* Back to Heroku and click on deploy
+
+* Connect to Github with your repository name
+
+* Enabled automatis deployement from Heroku
+
+* Push all code to Heroku by running *git push -u heroku main*
+
+* Click deploy back to Heroku settings.
+
+* Generate Django Secret_key using a key genartor and add this value to the Heroku config Vars
+
+![Config Vars](screenshot/config.png)
+
+
+
+
+3. Install database
+
+* pip3 install dj_database_url
+
+* pip3 install psycopg2-binary
+
+* Run pip3 freeze > requirements.txt
+
+* Run python3 manage.py showmigrations --dry-run
+
+* Run python3 manage.py showmigrations
+
+* Run python3 manage.py migrate --plan
+
+* Run python3 manage.py migrate
+
+* Loaddata categories and products
+
+* Pip3 install django-countries
+
+
+  
+
+4. Connecting to [AWS](https://aws.amazon.com/)
+
+
+* AWS will store all your staticfiles.
+
+* Create an account AWS.
+
+* While your account is set up search for **S3**.
+
+* Create a bucket, for best practice use the same name as your heroku app.
+
+* Click the region near you.
+
+* Configure the new bucket.
+
+* Choose Properties and static hosting.
+
+* update the CORS confirguration 
+
+![Cors](screenshot/cors.jpg)
+
+
+* Create a policy
+
+* Select 'S3 bucket policy and mark allow all principals
+
+* Create a new user to manage to the group.
+  
+* Create a folder and upload your media files
+
+* Back to gipod: 
+
+* pip3 install boto3
+
+* Pip3 install django-storages
+
+* pip3 freeze > requirements.txt
+
+* Add storages under the allowed apps
+
+* Make migrations
+
+
+
+5. Webhook / Stripe
+
+* Login to your stripe dashboard and copy your STRIPE_PUBLI_KEY and STRIPE_SECRET_KEY. 
+
+* Go to developpers, click on webhook and create an endpoint using your herokuapp url.
+
+* Select all events
+
+* Your STRIPW_WH_KEY is hiding under your endpoint you just created.
+
+
+[Back to Table of contents](#Table-of-Contents)
  ___
 
  ## Credits
 
 
+
+[Back to Table of contents](#Table-of-Contents)
  ___
+
 
 
 
