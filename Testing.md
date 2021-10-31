@@ -250,7 +250,18 @@ All HTML document were formatted.
 
 * Cart
 
-> No error
+> cart.html: 
+
+   * toast.error.html:
+
+   * toast.success.html: 
+
+![error](screenshot/toast.png)
+
+   * main-nav.html:
+
+![error](screenshot/main-nav.png)
+
 
 * Product
 
@@ -276,6 +287,25 @@ All HTML document were formatted.
 [Javascript](https://jshint.com/)
 
 >No error
+
+
+[Python](http://pep8online.com//)
+
+Errors after running PEP8 Online: 
+
+* Checkout: 
+   
+   * models.py: 
+
+   * views: py:
+
+   * webhook.handler.py:
+
+   
+
+* Product: 
+   
+   * views.py:
 
 
 # Stripe webhook
