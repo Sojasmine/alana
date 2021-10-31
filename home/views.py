@@ -12,4 +12,4 @@ def index(request):
 
 
 def contact(request):
-   return render(request, 'home/contact_us.html')
+    return render(request, 'home/contact_us.html')
