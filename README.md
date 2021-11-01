@@ -359,11 +359,6 @@ This website offers more than 100 items in their store.
 
   #### Product App
 
-  * Category model
-
-  ![Database Schema](screenshot/...png)
-
-
   * Product model
 
   ![Database Schema](screenshot/prodmo.png)
