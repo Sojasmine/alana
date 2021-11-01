@@ -337,11 +337,40 @@ This website offers more than 100 items in their store.
   * Postgres used after deploying to Heroku
 
 
-  * Models
+  * Models and custom model, created from [dbdiagram](https://dbdiagram.io/) 
 
-  ![Database Schema](screenshot/databas.png) from [dbdiagram](https://dbdiagram.io/) .
+
+  ![Database Schema](screenshot/model.png)
 
  
+  #### Profile App
+  
+  * User profile model
+
+  ![Database Schema](screenshot/profile.png)
+
+
+  #### Checkout App
+
+  * Order model
+
+  ![Database Schema](screenshot/model1.png)
+
+
+  #### Product App
+
+  * Category model
+
+  ![Database Schema](screenshot/...png)
+
+
+  * Product model
+
+  ![Database Schema](screenshot/prodmo.png)
+
+
+
+
  [Back to Table of contents](#Table-of-Contents)
 
  ___
