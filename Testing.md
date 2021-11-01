@@ -247,23 +247,18 @@ All HTML document were formatted.
 [HMTL](https://validator.w3.org/) validate from the direct input.
 
 
-* Home
-
-> No error 
-
-* Cart
-
-> cart.html: 
-
-   * toast.error.html:
-
-   * toast.success.html: 
 
 ![error](screenshot/toast.png)
 
    * main-nav.html:
 
+![error](screenshot/html.png)
+
+
+> Final result: 
+
 ![error](screenshot/main-nav.png)
+
 
 
 * Product
