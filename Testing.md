@@ -29,7 +29,8 @@
 
    > There is a search bar on the top of the website that users can enter any key related to the wedding
 
-    ![search](screenshot/search.jpg)
+    
+   ![search](screenshot/search.jpg)
 
 
 
@@ -38,7 +39,8 @@
 
    > User can contact support by e-mail or making a phone call. 
 
-    ![contact](screenshot/contact.jpeg)
+    
+   ![contact](screenshot/contact.jpeg)
 
 
 
@@ -48,7 +50,7 @@
    > User can make an order without registration. Sometimes it can be easily just shop and avoiding that steps. 
  
 
-    ![checkout](screenshot/check.jpeg)
+   ![checkout](screenshot/check.jpeg)
 
 
 
@@ -57,7 +59,7 @@
 
   > user can sign in with the sing in the form 
 
- ![signin](screenshot/signup.jpeg)
+  ![signin](screenshot/signup.jpeg)
 
 
 
@@ -79,6 +81,7 @@
   * To be able to create a new password if I forgot it.
   
   > On the sign-in page, the user can click on the link 'Forgot you're password and provide a new password". 
+  
   ![password](screenshot/password.jpeg)
 
 
