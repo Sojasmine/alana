@@ -37,7 +37,7 @@ class ProductReview(models.Model):
     """
 
     class Meta:
-        ordering = ['-date_added']
+        ordering = ['date_added']
 
     rating_selection = (
         (5, '5'),
