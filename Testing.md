@@ -62,6 +62,13 @@
   ![signin](screenshot/signup.jpeg)
 
 
+   * To be able to rate a review about a product. 
+
+   > Users can write a review and rate the product by giving it a star from 1 to 5. 
+
+  ![review](screenshot/rating.jpg)
+
+
 
 
 **As a returning user, I want:**
@@ -236,9 +243,15 @@ After:
 
  * Admin can add and delete the product from Django administration and on the site.
 
- >  I tested uplod an no image product on the site. 
+ >  I tested upload an no image product on the site. 
 
 
+
+* user can post a review and rate a product:
+
+> Can add and read reviews.
+
+![review](screenshot/review.jpg)
 
 ### Validation
 
@@ -257,7 +270,7 @@ All HTML document were formatted.
 
 > Final result: 
 
-![error](screenshot/main-nav.png)
+![validation](screenshot/validator.jpeg)
 
 
 
