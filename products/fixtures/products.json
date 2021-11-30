@@ -8,7 +8,6 @@
       "description": "Elegant wedding shoes with silky touch.",
       "price": 120,
       "category": 2,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/par-mode-sko-elegant-3103481/",
       "image": "SHO1.jpg"
     }
@@ -22,7 +21,6 @@
       "description": "Intricate floral appliques add romantic dimension to this embellished tulle midi dress. A sweetheart neckline tops of the structured, strapless bodice, white a swingy skirt creates soft movement",
       "price": 730.99,
       "category": 1,
-      "rating": 4.5,
       "image_url": " https://pixabay.com/sv/photos/kvinna-brud-br%c3%b6llop-kl%c3%a4nning-mode-6106966/",
       "image": "DR01.jpg"
     }
@@ -36,7 +34,6 @@
       "description": "From luxe London designer Freya Rose, these satin heels are intricately embellished with crystals above the slim stiletto wedding shoes.",
       "price": 205.99,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/drinkarna-vin-champagne-h%c3%a4l-skor-4408493/",
       "image": "SHO2.jpg"
     }
@@ -50,7 +47,6 @@
       "description": " Made from airy stretch mesh for effortless movement, this ethereal dress features a shirred bodice with delicate lace inserts at the neckline and back. The romantically draped off-the-shoulder sleeves can be tucked in or removed for a strapless look.",
       "price": 1069.99,
       "category": 5,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llopsfotografi-6388638/",
       "image": "DR02.jpg"
     }
@@ -64,7 +60,6 @@
       "description": " We’ve long admired Theia’s modern bridal style, and this striking gradient dress remains one of our all-time favorites from the designer. Inspired by Japanese cherry blossoms, intricate laser cut petals are hand-appliqued to airy tulle, then finished with glass beads for organic movement and subtle sparkle.",
       "price": 632.99,
       "category": 4,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-foto-viet-2517851/",
       "image": "DR03.jpg"
     }
@@ -78,7 +73,6 @@
       "description": "Airy layers of multi-colored crinkle tulle give this bold balldress its striking blush hue. The fitted V-neck bodice features slender straps, subtle side cutouts, and an intricately detailed open back.",
       "price": 750,
       "category": 4,
-      "rating": 3.7,
       "image_url": "https://pixabay.com/sv/photos/brud-portr%c3%a4tt-br%c3%b6llop-kvinna-5170729/",
       "image": "DR04.jpg"
     }
@@ -92,7 +86,6 @@
       "description": "From luxe London designer Liz Bella, these classic peep toe wedding shoes are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel.",
       "price": 259,
       "category": 2,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/vit-br%c3%b6llop-skor-h%c3%b6ga-hjul-792115/",
       "image": "SH03.jpg"
     }
@@ -106,7 +99,6 @@
       "description": "Twinkling rhinestones and a delicate tie detail complete this enchanting pair of shoes.",
       "price": 360.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/mode-sko-elegant-par-kl%c3%a4der-3200766/",
       "image": "SH04.jpg"
     }
@@ -120,7 +112,6 @@
       "description": " Take a bold step into bridal style with these chic high-heeled boots, made from white lace.",
       "price": 545.99,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-h%c3%a4lar-brud-%c3%a4ktenskap-5299265/",
       "image": "SH05.jpg"
     }
@@ -134,7 +125,6 @@
       "description": "This whimsical A-line dress is made from layer upon layer of sheer tulle for a lighter-than-air feel. A corset with exposed boning structures the strapless sweetheart bodice, accented with dimensional floral appliques that flow over the waistband and into the skirt.",
       "price": 350.99,
       "category": 3,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llop-par-k%c3%a4rlek-4640400/",
       "image": "DR05.jpg"
     }
@@ -148,7 +138,6 @@
       "description": "A notched V-neckline tops off the fitted silhouette of this strapless midi dress, made from allover recycled lace with a cascade of ruffles at the hem.",
       "price": 290.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-brudkl%c3%a4nning-kvinna-433638/",
       "image": "DR06.jpg"
     }
@@ -162,7 +151,6 @@
       "description": "Simple and elegant shoes",
       "price": 190,
       "category": 3,
-      "rating": 3.6,
       "image_url": "https://pixabay.com/sv/photos/skor-h%c3%b6sten-br%c3%b6llop-1159563/",
       "image": "SH06.jpg"
     }
@@ -176,7 +164,6 @@
       "description": "Lace appliques float from the sheer sweetheart corset bodice through the tulle skirt of this whimsical A-line dress. A blush lining lends barely-there color, and the removable grosgrain ribbon belt defines the waist.",
       "price": 350.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/brud-kvinna-bella-vit-sand-sol-855778/",
       "image": "DR07.jpg"
     }
@@ -190,7 +177,6 @@
       "description": "Swiss dot tulle adds a touch of whimsy to this airy A-line dress. The bustier bodice features a classic sweetheart neckline, while the sweeping train makes a dramatic finishing flourish.",
       "price": 326.99,
       "category": 3,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/brud-br%c3%b6llop-kl%c3%a4nning-flicka-3795869/",
       "image": "DR08.jpg"
     }
@@ -204,7 +190,6 @@
       "description": "Women’s closed toe Leatherette Sparkling Glitter lower heel flower wedding shoes with Rhinestone.",
       "price": 348.99,
       "category": 2,
-      "rating": 4.8,
       "image_url": " https://pixabay.com/sv/photos/sko-h%c3%b6g-klack-br%c3%b6llopsskor-1813569/",
       "image": "SH08.jpg"
     }
@@ -218,7 +203,6 @@
       "description": "From luxe London designer Freya Bella shoes, these classic peep toe pumps are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel.",
       "price": 365.99,
       "category": 2,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-h%c3%b6ga-hjul-strumpeband-792116/",
       "image": "SH07.jpg"
     }
@@ -232,7 +216,6 @@
       "description": "Delicate allover florals add alluring dimension to this romantic A-line dress. A sheer back shows off the intricate embroidery, while the puff sleeves can be worn on or off the shoulder.",
       "price": 333.99,
       "category": 3,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-br%c3%b6llop-bil-bentley-4754935/",
       "image": "DR09.jpg"
     }
@@ -246,7 +229,6 @@
       "description": "This crisp taffeta balldress is the epitome of bridal elegance, with illusion side cutouts and a soft square neckline bringing a touch of modernity.",
       "price": 1059.99,
       "category": 1,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llop-6391757/",
       "image": "DR10.jpg"
     }
@@ -260,7 +242,6 @@
       "description": "Soft organza bows top these elegant shoes for a classic touch that’s oh-so-pretty.",
       "price": 660.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/skor-brud-br%c3%b6llop-1565009/",
       "image": "SH09.jpg"
     }
@@ -274,7 +255,6 @@
       "description": "So cute with lace and confortable to wear. Reaaly nice shoes. ",
       "price": 520.99,
       "category": 7,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llop-par-2871482/",
       "image": "SH010.jpg"
     }
@@ -288,7 +268,6 @@
       "description": "If you’re looking for a romantically ethereal aesthetic, this fingertip veil delivers. Edged in Alencon lace, tuck it into soft waves or a loose updo for an exquisite touch.This item is part of a special collection of artisan-made accessories. Each piece is handcrafted upon order just for you",
       "price": 60.99,
       "category": 6,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/m%c3%a4nniskor-flicka-kvinna-br%c3%b6llop-2595821/",
       "image": "VIE01.jpg"
     }
@@ -302,7 +281,6 @@
       "description": "Leone lace is layered over this balldress’s constructed corset bodice, complete with a high neckline, three-quarter sleeves, and almond lining for contrast. A soft netting skirt creates a grand silhouette, while a row of dainty bows at the back makes a charming finishing touch. ",
       "price": 476.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-ung-kvinna-k%c3%a4rlek-par-4836094/",
       "image": "DR11.jpg"
     }
@@ -316,7 +294,6 @@
       "description": "A-line 7 Princess V-neck homecoming Dress with beading sequins",
       "price": 629.99,
       "category": 3,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-brudgum-kl%c3%a4nning-3145509/",
       "image": "DR12.jpg"
     }
@@ -330,7 +307,6 @@
       "description": "Gatsby-inspired beading brings brilliant sparkle to this gown’s intricately embellished bodice, while an elegantly tailored satin skirt creates a flawless silhouette.",
       "price": 382,
       "category": 3,
-      "rating": 3.8,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-brud-%c3%a4ktenskap-kvinna-319153/",
       "image": "DR13.jpg"
     }
@@ -344,7 +320,6 @@
       "description": "Long sleeves with subtle volume, a plunging neckline, and a sexy slit strike the perfect balance between bohemian romance and sultry edge. Scattered floral appliques add a feminine finish to this easygoing dress.",
       "price": 306.99,
       "category": 3,
-      "rating": 3.2,
       "image_url": "https://pixabay.com/sv/photos/brud-%c3%a4ktenskap-brudkl%c3%a4nning-kvinna-294780/",
       "image": "DR14.jpg"
     }
@@ -358,7 +333,6 @@
       "description": "With a pointed toe and T-strap detail, these shoes are the epitome of bridal elegance. An oversized silk bow at the back completes the look.",
       "price": 241.99,
       "category": 7,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-trend-fest-den-eleganta-2213046/",
       "image": "SH011.jpg"
     }
@@ -372,7 +346,6 @@
       "description": "This elegant wedding dress make you look like a princess for a day! It is magical. A must have gown.",
       "price": 2638.99,
       "category": 1,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-kl%c3%a4nning-kvinna-2693605/",
       "image": "DR15.jpg"
     }
@@ -386,7 +359,6 @@
       "description": "Dusted with delicate beadwork, this floral lace dress offers layer upon layer of romantic detail. An elegantly fitted silhouette, strappy open back, and subtle train complete the look.",
       "price": 753.99,
       "category": 5,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/brud-modell-brudkl%c3%a4nning-5504342/",
       "image": "DR16.jpg"
     }
@@ -400,7 +372,6 @@
       "description": "Large-scale floral embroidery cascades down this flawlessly fitted column dress, layered with allover beadwork for dimensional detail. An open scoop back balances the demure high neckline, while a soft train completes the look.",
       "price": 631.99,
       "category": 3,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-ung-kvinna-k%c3%a4rlek-par-4836085/",
       "image": "DR17.jpg"
     }
@@ -414,7 +385,6 @@
       "description": "With a plunging neckline, gorgeous embroidery, and subtle beading, this dress offers endless possibilities. It's equally perfect for engagement photos, a casual beach wedding, a reception look, or a honeymoon date night.",
       "price": 572.99,
       "category": 5,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/brud-brudkl%c3%a4nning-br%c3%b6llop-kl%c3%a4nning-393735/",
       "image": "DR18.jpg"
     }
@@ -428,7 +398,6 @@
       "description": " A vintage vision in a romantic classic lace wedding dress. ",
       "price": 269.99,
       "category": 5,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/m%c3%a4nniskor-flicka-kille-br%c3%b6llop-2563490/",
       "image": "DR19.jpg"
     }
@@ -442,7 +411,6 @@
       "description": "Handcrafted with a scalloped French Alencon lace trim, this fresh take on a traditional veil frames any gown beautifully. This item is part of a special collection of artisan-made accessories. Each piece is handcrafted upon order just for you.",
       "price": 35.99,
       "category": 2,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-par-br%c3%b6llopskl%c3%a4nning-brud-846924/",
       "image": "VIE02.jpg"
     }
@@ -456,7 +424,6 @@
       "description": "A square neckline and plunging open back lend a modern edge to this fitted crepe dress, while sheer puff sleeves gather into lace cuffs for a romantic finishing flourish.",
       "price": 758.99,
       "category": 4,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-br%c3%b6llop-foto-bild-vietnam-2995608/",
       "image": "DR020.jpg"
     }
@@ -470,7 +437,6 @@
       "description": "From luxe London designer Antonia Maro, these classic peep toe shoes are wrapped in soft laces, then dazzlingly embellished with a mother of pearl heel.",
       "price": 493.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/skor-br%c3%b6llop-brud-%c3%a4ktenskap-vit-187931/",
       "image": "SH012.jpg"
     }
@@ -483,8 +449,7 @@
       "name": "Twigs & Honey Roxanna Tiara",
       "description": "Ladies Glamourous Rhinestone/Alloy Tiaras",
       "price": 50.99,
-      "category": 6,
-      "rating": 4.7,
+      "category": 6,,
       "image_url": "https://pixabay.com/sv/photos/tiara-krona-drottning-kungligheter-6105570/",
       "image": "VIE03.jpg"
     }
@@ -498,7 +463,6 @@
       "description": "Have a shining moment with this Swarovski crystal tiara, which takes the shape of wispy florals.",
       "price": 43.99,
       "category": 6,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/krona-diadem-smycken-p%c3%a4rlor-1049927/",
       "image": "VIE04.jpg"
     }
@@ -512,7 +476,6 @@
       "description": "Finished with cristal stone, this enameled tiara adds a leave flourish to your wedding day look",
       "price": 91.99,
       "category": 6,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/krona-tiara-drottning-prinsessa-6119866/",
       "image": "VIE05.jpg"
     }
@@ -526,7 +489,6 @@
       "description": "Women’s Sparkling Glitter Stiletto Heel Closed Toe shoes With Others",
       "price": 260.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/skor-vita-%c3%a4ktenskap-br%c3%b6llop-877932/",
       "image": "SH013.jpg"
     }
@@ -540,7 +502,6 @@
       "description": "Women’s PU Chunky Heel Peep Toe shoes Sandals with buckle.",
       "price": 271.99,
       "category": 2,
-      "rating": 3.8,
       "image_url": "https://pixabay.com/sv/photos/sko-hand-fl%c3%a4kt-br%c3%b6llop-blomma-6029738/",
       "image": "SH014.jpg"
     }
@@ -554,7 +515,6 @@
       "description": "Women’s Sparkling satin shoes wedding shoes",
       "price": 251.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/sko-vit-%c3%a4ktenskap-615540/",
       "image": "SH015.jpg"
     }
@@ -568,7 +528,6 @@
       "description": "Women’s Leatherette Stiletto shoes closed toe with stiching lace.",
       "price": 441.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-kl%c3%a4nning-sl%c3%b6ja-70666/",
       "image": "SH016.jpg"
     }
@@ -582,7 +541,6 @@
       "description": "Swirling straps and a touch of shimmer enliven these vintage-inspired shoes..",
       "price": 118.99,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/sko-brud-godis-vit-l%c3%a5ng-h%c3%a4l-1014589/",
       "image": "SH017.jpg"
     }
@@ -596,7 +554,6 @@
       "description": " From luxe London designer Freya Bella, these classic peep toe shoes are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel.",
       "price": 365.99,
       "category": 2,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-h%c3%b6ga-hjul-vit-792118/",
       "image": "SH018.jpg"
     }
@@ -610,7 +567,6 @@
       "description": "From luxe London designer Freya Bella, these lavishly embellished satin shoes feature a dazzling crystal detail at the toe for sparkle with every step",
       "price": 260.99,
       "category": 2,
-      "rating": 4.9,
       "image_url": "https://pixabay.com/sv/photos/bukett-br%c3%b6llop-blommor-rosor-4014521/",
       "image": "SH019.jpg"
     }
@@ -624,7 +580,6 @@
       "description": "From luxe London designer Freya Bella, these satin shoes are intricately embellished with crystals above the slim stiletto heel.",
       "price": 341,
       "category": 2,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-%c3%a4ktenskap-brud-kl%c3%a4nning-2589802/",
       "image": "SH020.jpg"
     }
@@ -638,7 +593,6 @@
       "description": " A glittering bow tops off the pointy toe of these timeless satin kitten shoes.",
       "price": 462.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/h%c3%a4lar-brud-vita-%c3%a4ktenskap-sko-1236641/",
       "image": "SH021.jpg"
     }
@@ -652,7 +606,6 @@
       "description": "Craving an extra dose of glamour? Slide on this regal tiara, coated in crystals for an unforgettable flourish.",
       "price": 248.99,
       "category": 6,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/kvinna-brud-br%c3%b6llop-sk%c3%b6n-ringa-2585782/",
       "image": "VIE06.jpg"
     }
@@ -666,7 +619,6 @@
       "description": "Tiny freshwater crystal on this romantic princess tiara.",
       "price": 234.99,
       "category": 6,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/krona-kvinnor-br%c3%b6llop-k%c3%a4rlek-4296628/",
       "image": "VIE07.jpg"
     }
@@ -680,7 +632,6 @@
       "description": "Finished with plush velvet ribbons, this enameled halo adds a floral flourish to your wedding day look",
       "price": 60.99,
       "category": 6,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-detaljer-%c3%a4ktenskap-5631610/",
       "image": "VIE08.jpg"
     }
@@ -693,8 +644,7 @@
       "name": "Antonia Maro Tiara",
       "description": "Ladies Beautifl Alloy Tiaras",
       "price": 166,
-      "category": 6,
-      "rating": 4.6,
+      "category": 6,,
       "image_url": "https://pixabay.com/sv/photos/kvinna-krona-brud-sl%c3%b6ja-modell-5490538/",
       "image": "VIE09.jpg"
     }
@@ -708,7 +658,6 @@
       "description": "Crinkled taffeta bows top off this breezy pair, finished with a modern, rounded shoes and slim ankle strap.",
       "price": 319.99,
       "category": 2,
-      "rating": 3.8,
       "image_url": "https://pixabay.com/sv/photos/skor-brud-ringar-kl%c3%a4nning-3599724/",
       "image": "SH022.jpg"
     }
@@ -722,7 +671,6 @@
       "description": "Soft suede leather shoes with a modern touch.",
       "price": 388.99,
       "category": 2,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-bukett-h%c3%b6ga-klackar-skor-5044390/",
       "image": "SH023.jpg"
     }
@@ -736,7 +684,6 @@
       "description": "This silver glitter pair features a jewel-encrusted strap and metallic detail on the easy-to-wear block shoes",
       "price": 353.99,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llopsdag-br%c3%b6llopsskor-%c3%a5rsdag-5158645/",
       "image": "SH024.jpg"
     }
@@ -750,7 +697,6 @@
       "description": "Tubular straps twist across these modern, square-toe mules for a minimalist detail. Cute wedding shoes.",
       "price": 66.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llopsskor-skor-h%c3%a4lar-mode-brud-934774/",
       "image": "SH025.jpg"
     }
@@ -764,7 +710,6 @@
       "description": "Oversized floral appliques accent this gown's fitted bodice and float down the frothy A-line skirt, which extends into a slight train. A deep v-neckline, open back, and side cutouts reveal a bit of skin while two straps accentuate the waist. ",
       "price": 928.99,
       "category": 4,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llop-6234289/",
       "image": "DR021.jpg"
     }
@@ -778,7 +723,6 @@
       "description": "Women’s Leatherette Spool heel closed toe shoes",
       "price": 365.99,
       "category": 2,
-      "rating": 4.9,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-brud-skor-%c3%a4ktenskap-4506525/",
       "image": "SH026.jpg"
     }
@@ -792,7 +736,6 @@
       "description": "From luxe Oslo designer Adrian Stenseth, these classic peep toe shoes are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel",
       "price": 345,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-h%c3%b6ga-hjul-vit-792110/",
       "image": "SH028.jpg"
     }
@@ -806,7 +749,6 @@
       "description": "Add a splash of sparkle to any ensemble with these strappy crystal shoes.",
       "price": 465,
       "category": 7,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-sko-lady-sko-sko-3769919/",
       "image": "SH029.jpg"
     }
@@ -820,7 +762,6 @@
       "description": "A layer of glitter tulle adds subtle shine to this frothy blush balldress. Sheer and backless.",
       "price": 911.99,
       "category": 1,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-br%c3%b6llop-vit-kl%c3%a4nning-2868896/",
       "image": "DR022.jpg"
     }
@@ -834,7 +775,6 @@
       "description": "From luxe London designer Freya Bella, these lavishly embellished satin shoes for sparkle with every step",
       "price": 465.99,
       "category": 7,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/skor-handla-br%c3%b6llop-kvinno-skor-254701/",
       "image": "SH030.jpg"
     }
@@ -848,7 +788,6 @@
       "description": "Delicate crystals coat this fingertip veil for an air of subtle decadence.",
       "price": 84,
       "category": 6,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-%c3%a4ktenskap-kvinna-5346840/",
       "image": "VIE10.jpg"
     }
@@ -862,7 +801,6 @@
       "description": "Women’s leatherette steletto shoes closed toe shoes with Rhinestone.",
       "price": 331.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-br%c3%b6llopsdag-brud-3900682/",
       "image": "SH031.jpg"
     }
@@ -876,7 +814,6 @@
       "description": "Womne’s letherette spoll heel closed toe shoes.",
       "price": 269.99,
       "category": 2,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/skor-h%c3%a4lar-bukett-blommor-5533678/",
       "image": "SH032.jpg"
     }
@@ -890,7 +827,6 @@
       "description": "A scattering of floral embroidery and delicate flutter sleeves make this fit-and-flare wedding dress a bohemian dream. Choose from timeless ivory embroidery or a rainbow of colorful blooms",
       "price": 419.99,
       "category": 3,
-      "rating": 3.9,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-br%c3%b6llop-k%c3%a4rlek-par-1990651/",
       "image": "DR023.jpg"
     }
@@ -904,7 +840,6 @@
       "description": "Intricate floral appliques add romantic dimension to this embellished tulle midi dress. A sweetheart neckline tops off the structured, strapless bodice, while a swingy skirt creates soft movement.",
       "price": 869.99,
       "category": 1,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/brud-br%c3%b6llop-kl%c3%a4nning-%c3%a4ktenskap-650897/",
       "image": "DR024.jpg"
     }
@@ -918,7 +853,6 @@
       "description": "Delicate allover florals add alluring dimension to this romantic A-line gown. A sheer back shows off the intricate embroidery, while the puff sleeves can be worn on or off the shoulder.",
       "price": 530.99,
       "category": 5,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/brud-kl%c3%a4nning-lyktor-%c3%a4ktenskap-713337/",
       "image": "DR025.jpg"
     }
@@ -932,7 +866,6 @@
       "description": "Ball gown Strapless chapel train satin organza wedding dress.",
       "price": 672.99,
       "category": 5,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/new-orleans-br%c3%b6llop-dansa-3876980/",
       "image": "DR026.jpg"
     }
@@ -946,7 +879,6 @@
       "description": "The romantic embroidery on this fingertip veil was inspired by the Japanese art of ikebana, in which flowers are elegantly arranged as an expression of emotion.",
       "price": 50.99,
       "category": 6,
-      "rating": 2.7,
       "image_url": "https://pixabay.com/sv/photos/sl%c3%b6ja-gift-svart-vit-m%c3%b6rk-br%c3%b6llop-4359624/",
       "image": "VIE010.jpg"
     }
@@ -960,7 +892,6 @@
       "description": "Ball-Gown Sweetheart Cathedral train tulle Lace wedding dress with beading sequins",
       "price": 742,
       "category": 1,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-kl%c3%a4nningar-brud-kvinna-4014512/",
       "image": "DR027.jpg"
     }
@@ -974,7 +905,6 @@
       "description": "Women’s Satin heel peep toe shoes with crystalstone",
       "price": 308.99,
       "category": 2,
-      "rating": 4.2,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-bukett-brud-blommor-2040479/",
       "image": "SH033.jpg"
     }
@@ -988,7 +918,6 @@
       "description": "Women’s Lace satin stliletto heel closed toe wedding shoes with flower ",
       "price": 608.99,
       "category": 2,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-h%c3%b6ga-klackar-h%c3%a4lar-2291610/",
       "image": "SH034.jpg"
     }
@@ -1002,7 +931,6 @@
       "description": "A gauzy, layered coverlet atop luminous silk charmeuse makes this Catherine Deane design the perfect reflection of our love for all things vintage. The finishing flourish? A dusting of pearly beads",
       "price": 960.99,
       "category": 1,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/kl%c3%a4nning-brud-br%c3%b6llop-3757415/",
       "image": "DR028.jpg"
     }
@@ -1016,7 +944,6 @@
       "description": "Delicate florals cover this tulle and organza veil for a romantic finishing touch.",
       "price": 52,
       "category": 6,
-      "rating": 3.7,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-par-gifta-sig-kvinna-sk%c3%b6n-1958036/",
       "image": "VIE11.jpg"
     }
@@ -1030,7 +957,6 @@
       "description": "For the ultimate bohemian bride, this fit-and-flare gown ticks all the boxes. A plunging illusion neckline flows into a soft skirt coated in lace appliques, evoking a vintage vibe. Removable sleeves let you switch from delightfully demure to dance floor-ready! ",
       "price": 1060.99,
       "category": 7,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-kvinna-h%c3%a4st-ladug%c3%a5rd-brud-5955297/",
       "image": "DR029.jpg"
     }
@@ -1044,7 +970,6 @@
       "description": "Women’s sparkling glitter stiletto heel closed toe wedding shoes",
       "price": 348.99,
       "category": 2,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/dr%c3%b6m-skor-kvinnor-kvinnor-skor-4723822/",
       "image": "SH035.jpg"
     }
@@ -1058,7 +983,6 @@
       "description": "Women’s Lace silk like satin flat shoes closed toe flats with sequin stitching lace pearl.",
       "price": 150.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-sko-brud-kl%c3%a4nning-kvinna-3495623/",
       "image": "SH036.jpg"
     }
@@ -1072,7 +996,6 @@
       "description": "Scattered with floral embroidery, this romantic fit-and-flare dress features a surprisingly effortless off-the-shoulder neckline. The secret? Sheer illusion mesh! ",
       "price": 1336.99,
       "category": 1,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/brud-hattar-och-andra-huvudbonader-3156302/",
       "image": "DR030.jpg"
     }
@@ -1086,7 +1009,6 @@
       "description": "Women’s Leaherette stiletto closed toe wedding shoes with Rhinestone crystal",
       "price": 60.99,
       "category": 7,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/holiday-vin-skor-br%c3%b6llop-alkohol-4409372/",
       "image": "SH037.jpg"
     }
@@ -1100,7 +1022,6 @@
       "description": "Scattered with floral embroidery, this romantic fit-and-flare dress features a surprisingly effortless off-the-shoulder neckline. The secret? Sheer illusion mesh!",
       "price": 760.99,
       "category": 5,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-brud-balkl%c3%a4nning-5504340/",
       "image": "DR031.jpg"
     }
@@ -1114,7 +1035,6 @@
       "description": "Crystal and opalescent beads accent organza petals on this handmade, and just sparkly enough, chapel-length veil.",
       "price": 229,
       "category": 6,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/brud-brudgum-%c3%a4ktenskap-br%c3%b6llop-4086957/",
       "image": "VIE12.jpg"
     }
@@ -1128,7 +1048,6 @@
       "description": "Women’s Lace satin stiletto toe wedding shoes with tiny flower",
       "price": 60.99,
       "category": 2,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/sko-gift-br%c3%b6llop-spets-vit-kvinna-2073429/",
       "image": "SH038.jpg"
     }
@@ -1142,7 +1061,6 @@
       "description": "Elegantly edged in rose applique, this gossamer tulle veil offers timeless drama with a flowing cathedral silhouette.",
       "price": 248.99,
       "category": 6,
-      "rating": 4.9,
       "image_url": "https://pixabay.com/sv/photos/paris-brud-br%c3%b6llop-frankrike-1889684/",
       "image": "VIE13.jpg"
     }
@@ -1156,7 +1074,6 @@
       "description": "From luxe London designer Freya Rose, these satin wedding shoes are intricately embellished with crystals above the slim stiletto heel.",
       "price": 327,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/skor-bukett-br%c3%b6llop-rosor-blommor-6485772/",
       "image": "SH039.jpg"
     }
@@ -1170,7 +1087,6 @@
       "description": "Soft lace is swathed in ivory floral embroidery, perfectly placed to highlight your best assets. This wedding dress is just great for your look. ",
       "price": 1029.99,
       "category": 1,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/mode-elegant-kl%c3%a4nning-br%c3%b6llop-brud-3112150/",
       "image": "DR032.jpg"
     }
@@ -1184,7 +1100,6 @@
       "description": "This timeless wedding dress pairs luxe satin with sequin-dusted lace in a sleek silhouette. The floral lace bodice features cap sleeves and a classic neckline, while the bias-cut skirt flows into a dramatic court-length train. Covered back buttons make an elegant finishing touch.",
       "price": 738.99,
       "category": 5,
-      "rating": 4.2,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-par-g%c3%a5ende-romantisk-5264785/",
       "image": "DR033.jpg"
     }
@@ -1198,7 +1113,6 @@
       "description": "Women’s glitter stiletto shoes pepe toe platform sandals with buckle",
       "price": 326.99,
       "category": 2,
-      "rating": 4.1,
       "image_url": "https://pixabay.com/sv/photos/brud-skor-br%c3%b6llop-h%c3%a4lar-mode-4457673/",
       "image": "SH040.jpg"
     }
@@ -1212,7 +1126,6 @@
       "description": "Intricately embellished dimensional embroidery coats the bodice of this stunningly structured gown, which pairs a plunging V-neckline with a cleanly fitted skirt. The ultimate finishing flourish? A crisp, statement-sized bow that creates a dramatic train.",
       "price": 658.99,
       "category": 5,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-par-make-fru-bild-4795064/",
       "image": "DR034.jpg"
     }
@@ -1226,7 +1139,6 @@
       "description": "Women’s lace silk like satin kitten shoes closed ote with crystal",
       "price": 108.99,
       "category": 3,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-skor-firande-brud-2412837/",
       "image": "SH041.jpg"
     }
@@ -1240,7 +1152,6 @@
       "description": "Women’s lace silk satin heel peep toe platform pumps with buckle rhinestone crystal.",
       "price": 352.99,
       "category": 2,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/sandle-brud-br%c3%b6llop-brudgum-4795110/",
       "image": "SH042.jpg"
     }
@@ -1254,7 +1165,6 @@
       "description": "Sheer cap sleeves make a ladylike finishing touch for this balldress’s floral applique bodice. An open back and ethereal tulle skirt complete the look",
       "price": 1244.99,
       "category": 7,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/nygifta-%c3%a4ktenskap-br%c3%b6llopsfotografi-5779483/",
       "image": "DR043.jpg"
     }
@@ -1268,7 +1178,6 @@
       "description": "Women’s silk like satin chunky heel closed toe shoes",
       "price": 333.99,
       "category": 2,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/par-mode-sko-elegant-3103483/",
       "image": "SH044.jpg"
     }
@@ -1282,7 +1191,6 @@
       "description": "Ball-Gown/princess off-the-shoulder florr-length tulle wedding dress with beading ",
       "price": 750.99,
       "category": 4,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-foto-viet-2646648/",
       "image": "DR035.jpg"
     }
@@ -1296,7 +1204,6 @@
       "description": "Ball-gown sweetheart floor length satin organza wedding dress with ruffle lace beading",
       "price": 670.99,
       "category": 7,
-      "rating": 4.9,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-foto-viet-2651336/",
       "image": "DR036.jpg"
     }
@@ -1310,7 +1217,6 @@
       "description": "Women’s leatherette chunky heel peep toe shoes Jimmy Choo",
       "price": 331.99,
       "category": 7,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/jimmy-choo-br%c3%b6llop-skor-tillbeh%c3%b6r-4743989/",
       "image": "SH045.jpg"
     }
@@ -1324,7 +1230,6 @@
       "description": "Women’s Leatherette stiletto heel closed toe applique",
       "price": 442.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/skor-br%c3%b6llop-%c3%a4ktenskap-vita-vit-866480/",
       "image": "SH046.jpg"
     }
@@ -1338,7 +1243,6 @@
       "description": "Women’s leatherette heel closed toe shoes with buckle",
       "price": 492.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-blomma-firande-brud-3081322/",
       "image": "SH047.jpg"
     }
@@ -1352,7 +1256,6 @@
       "description": "This elegantly tailored dupioni mini has a showstopping detail: a whimsical, oversized bow with trailing streamers. (P.S. You can remove the bow for an effortless second look!)",
       "price": 526.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/mode-kvinna-kl%c3%a4nning-elegant-charm-3236085/",
       "image": "DR037.jpg"
     }
@@ -1366,7 +1269,6 @@
       "description": "Women’s silk like satin heel shoes with others",
       "price": 558.99,
       "category": 7,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/brudskor-br%c3%b6llopsglas%c3%b6gon-1434864/",
       "image": "SH048.jpg"
     }
@@ -1380,7 +1282,6 @@
       "description": "A ruched sweetheart bodice tops this softly-hued balldress, and a removable sash defines the waist. On the dramatic skirt, voluminous tulle tiers are accented with subtle stripe details.",
       "price": 429.99,
       "category": 3,
-      "rating": 4.2,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-brud-%c3%a4ktenskap-kvinna-301817/",
       "image": "DR038.jpg"
     }
@@ -1394,7 +1295,6 @@
       "description": "Exsclusive princess wedding dress with gold crystal details. The perfect look!",
       "price": 2053.99,
       "category": 1,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brudgummen-brud-puss-2859814/",
       "image": "DR039.jpg"
     }
@@ -1408,7 +1308,6 @@
       "description": "Princess Sweethear sweep train tulle wedding Dress",
       "price": 472.99,
       "category": 3,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-ceremoni-pojkv%c3%a4nner-gift-1706514/",
       "image": "DR040.jpg"
     }
@@ -1422,7 +1321,6 @@
       "description": "The romantic embroidery on this fingertip veil was inspired by the Japanese art of ikebana, in which flowers are elegantly arranged as an expression of emotion.",
       "price": 171.99,
       "category": 6,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/brud-kvinna-%c3%a4ktenskap-m%c3%a4nsklig-fru-3682093/",
       "image": "VIE14.jpg"
     }
@@ -1436,7 +1334,6 @@
       "description": "Elegant shiny leatherette wedding shoes",
       "price": 255,
       "category": 2,
-      "rating": 4.2,
       "image_url": "https://pixabay.com/sv/photos/brudskor-skor-damskor-vit-eleganta-250690/",
       "image": "SH049.jpg"
     }
@@ -1450,7 +1347,6 @@
       "description": "Women’s leatherette chunky heel closed toe with others. A must have shoes!",
       "price": 352.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/skor-br%c3%b6llop-ring-vit-stil-brud-5757659/",
       "image": "SH050.jpg"
     }
@@ -1464,7 +1360,6 @@
       "description": "Elegant heel with leatherette wedding shoes by Graceland.",
       "price": 30.99,
       "category": 3,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/skor-brud-damskor-br%c3%b6llopsskor-2764813/",
       "image": "SH051.jpg"
     }
@@ -1478,7 +1373,6 @@
       "description": "A glittering bow tops off the pointy toe of these timeless satin kitten heels.",
       "price": 166.99,
       "category": 2,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/skor-h%c3%b6ga-klackar-br%c3%b6llop-4005122/",
       "image": "SH052.jpg"
     }
@@ -1492,7 +1386,6 @@
       "description": "Ball-Gown sweetheart chapel train wedding dress with embroidere sash beading sequins. ",
       "price": 71.99,
       "category": 4,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-ung-kvinna-kl%c3%a4nning-2129578/",
       "image": "DR041.jpg"
     }
@@ -1506,7 +1399,6 @@
       "description": "Beautiful and elegant Freja Bella lave wedding dress decorated with pearls ",
       "price": 1660.99,
       "category": 7,
-      "rating": 4.7,
       "image_url": "https://pixabay.com/sv/photos/east-lake-br%c3%b6llopskl%c3%a4nning-2158291/",
       "image": "DR042.jpg"
     }
@@ -1520,7 +1412,6 @@
       "description": "Lavishly embellished to sparkle with every step, these satin heels are a classic pair for the bride.",
       "price": 429.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/%c3%a4ktenskap-skor-h%c3%a4lar-brud-l%c3%a5ng-1141816/",
       "image": "SH053.jpg"
     }
@@ -1534,7 +1425,6 @@
       "description": "Ball-Gown Court train Tulle Lace Wedding Dress.",
       "price": 53.99,
       "category": 1,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/%c3%a4ktenskap-br%c3%b6llop-br%c3%b6llopskl%c3%a4nning-2987452/",
       "image": "DR044.jpg"
     }
@@ -1548,7 +1438,6 @@
       "description": "This whimsical A-line dress is made from layer upon layer of sheer tulle for a lighter-than-air feel. A corset with exposed boning structures the strapless sweetheart bodice, accented with dimensional floral appliques that flow over the waistband and into the skirt.",
       "price": 629.99,
       "category": 5,
-      "rating": 4.1,
       "image_url": "https://pixabay.com/sv/photos/h%c3%a4st-kvinna-nature-djur-landskap-4991677/",
       "image": "DR045.jpg"
     }
@@ -1562,7 +1451,6 @@
       "description": "Women’s Leatherette high heel shoes with buckle. ",
       "price": 139.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/h%c3%a4lar-sandaler-dekoration-br%c3%b6llop-1024399/",
       "image": "SH054.jpg"
     }
@@ -1576,7 +1464,6 @@
       "description": "Ball-Gown/Princess off-the-shoulder lace wedding Dress with sequins. ",
       "price": 823.99,
       "category": 7,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-par-br%c3%b6llopskl%c3%a4nning-brud-846926/",
       "image": "DR046.jpg"
     }
@@ -1590,7 +1477,6 @@
       "description": "Women’s Leatherette Latin With Rhineastone Wedding Shoes",
       "price": 424.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/bra-h%c3%a4lar-strass-vit-kvinna-sko-1060010/",
       "image": "SH055.jpg"
     }
@@ -1604,7 +1490,6 @@
       "description": "Ball-Gown/Princess Scoop neck sweep train Organza Lace Wedding Dress with Beading Sequins.",
       "price": 58.99,
       "category": 3,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/salong-av-br%c3%b6llopskl%c3%a4nningar-brud-1967312/",
       "image": "DR047.jpg"
     }
@@ -1618,7 +1503,6 @@
       "description": "Women’s Satin Stiletto Heel Closed toe shoes with Imitaion flower.",
       "price": 641,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/skor-br%c3%b6llopskl%c3%a4nningar-godis-s%c3%a4ng-1014606/",
       "image": "SH046.jpg"
     }
@@ -1632,7 +1516,6 @@
       "description": "Dainty floral details made from shimmery sequins and beads embellish the bodice and straps of this romantic weding dress. An unlined bodice with exposed corset details and a low back gives way to a full and floaty skirt. Pair with one of two included velvet ribbon belts to make the look your own: green to echo subtle stitching in the florals, or ivory for a classic bridal style.",
       "price": 1613.99,
       "category": 1,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/kvinna-brud-kl%c3%a4nning-vit-kl%c3%a4nning-6234266/",
       "image": "DR048.jpg"
     }
@@ -1646,7 +1529,6 @@
       "description": "Floral Guipure lace introduces striking texture to this romantic column dress, capped off with sheer cap sleeves. The classic V-neckline is mirrored in a deeply plunging back",
       "price": 744.99,
       "category": 5,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/vit-kl%c3%a4nning-mode-stil-elegant-vit-6106983/",
       "image": "DR049.jpg"
     }
@@ -1660,7 +1542,6 @@
       "description": "This glamorous gown is a vintage-inspired vision, made from ivory satin for a sinuous silhouette. Exquisitely detailed beadwork accents the bodice and cutout back, finished with a row of buttons and a cascading train",
       "price": 3219.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/kvinna-modell-vit-kl%c3%a4nning-portr%c3%a4tt-6276302/",
       "image": "DR050.jpg"
     }
@@ -1674,7 +1555,6 @@
       "description": "Luxurious duchesse satin construction gives this modern dress a structural silhouette, finished with a chic square neckline and sheer corset back. Wear the tailored column on its own for understated elegance, or pair with the detachable overskirt for a dramatic flourish.",
       "price": 426.99,
       "category": 2,
-      "rating": 3.5,
       "image_url": "https://pixabay.com/sv/photos/brud-br%c3%b6llop-rum-vit-kl%c3%a4nning-1392691/",
       "image": "DR051.jpg"
     }
@@ -1688,7 +1568,6 @@
       "description": "This chic sweetheart bodice can be worn with or without its slender straps for two elegant bridal looks. Simple and elegant dress",
       "price": 719.99,
       "category": 3,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-vit-%c3%a4ktenskap-br%c3%b6llop-2941447/",
       "image": "DR052.jpg"
     }
@@ -1702,7 +1581,6 @@
       "description": "This timeless dress pairs luxe lace with sequin-dusted lace in a sleek silhouette. The floral lace bodice features cap sleeves and a classic round neckline, while the bias-cut skirt flows into a dramatic court-length train. Covered back buttons make an elegant finishing touch.",
       "price": 916.99,
       "category": 5,
-      "rating": 4.6,
       "image_url": "https://pixabay.com/sv/photos/kl%c3%a4nning-br%c3%b6llop-kl%c3%a4nning-vit-646283/",
       "image": "DR053.jpg"
     }
@@ -1716,7 +1594,6 @@
       "description": "Chantilly lace brings an ethereal effect to this handcrafted airy veil.",
       "price": 241.99,
       "category": 7,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/kina-sanya-bilden-av-bruden-p%c3%a5-%c3%b6n-4798365/",
       "image": "VIE15.jpg"
     }
@@ -1730,7 +1607,6 @@
       "description": "Flawlessly fitted, this matte satin dress is a stunning pick for the modern bride. A timeless sweetheart neckline finishes the strapless bodice, while covered buttons accentuate the sweeping train.",
       "price": 49,
       "category": 3,
-      "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-i-kina-kina-4798368/",
       "image": "DR054.jpg"
     }
@@ -1744,7 +1620,6 @@
       "description": "Ball-Gown Sweetheart Cathedral train Tulle Lace wedding dress with crystal details. Lovely!",
       "price": 860.99,
       "category": 4,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/f%c3%b6delsedag-parti-15-%c3%a5r-1146996/",
       "image": "DR055.jpg"
     }
@@ -1758,7 +1633,6 @@
       "description": "Cute and classic wedding dress.",
       "price": 69.99,
       "category": 5,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/brud-modell-kvinna-vit-kl%c3%a4nning-6151581/",
       "image": "DR056.jpg"
     }
@@ -1772,7 +1646,6 @@
       "description": "Made from delicate tulle, this romantic chapel veil is artfully embroidered with a floral illustration by artist Alli Koch.",
       "price": 248.99,
       "category": 7,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/kvinna-kl%c3%a4nning-sl%c3%b6ja-modell-brud-1486242/",
       "image": "VIE16.jpg"
     }
@@ -1786,7 +1659,6 @@
       "description": "Ball-Gown/Princess Sweetheart Sweep Train Tulle wedding dress",
       "price": 1030.99,
       "category": 4,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-asien-vietnam-utomhus-2784455/",
       "image": "DR057.jpg"
     }
@@ -1800,7 +1672,6 @@
       "description": "Ball-Gown Sweetheart Court Train Tulle Lace Wedding Dress",
       "price": 1026.99,
       "category": 1,
-      "rating": 4.3,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-vit-kl%c3%a4nning-%c3%a4ktenskap-1217052/",
       "image": "DR058.jpg"
     }
@@ -1814,7 +1685,6 @@
       "description": "For the ultimate bohemian bride, this fit-and-flare dress ticks all the boxes. A plunging illusion neckline flows into a soft skirt coated in lace appliques, evoking a vintage vibe. Removable sleeves let you switch from delightfully demure to dance floor-ready! ",
       "price": 521.99,
       "category": 3,
-      "rating": 4,
       "image_url": "https://pixabay.com/sv/photos/brides-%c3%a4ktenskap-strand-kvinnor-2290873/",
       "image": "DR059.jpg"
     }
@@ -1828,7 +1698,6 @@
       "description": "Craving an extra dose of glamour? Slide on this regal tiara, coated in crystals for an unforgettable flourish.",
       "price": 42.99,
       "category": 6,
-      "rating": 4.4,
       "image_url": "https://pixabay.com/sv/photos/brud-%c3%a4ktenskap-flicka-ung-kvinna-2043787/",
       "image": "VIE17.jpg"
     }
@@ -1842,7 +1711,6 @@
       "description": "This classic japanese wedding dress is just so Cute and Elegant!",
       "price": 341.99,
       "category": 5,
-      "rating": 3.7,
       "image_url": "https://pixabay.com/sv/photos/flicka-kvinna-lady-vit-kl%c3%a4nning-3362228/",
       "image": "DR060.jpg"
     }
@@ -1856,7 +1724,6 @@
       "description": "Chantilly lace brings an ethereal effect to this handcrafted airy veil.",
       "price": 253.99,
       "category": 6,
-      "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/brudkl%c3%a4nning-mode-brud-sl%c3%b6ja-1486260/",
       "image": "VIE18.jpg"
     }
@@ -1870,7 +1737,6 @@
       "description": "A whisper of delicate, scalloped lace trims this utterly romantic tulle veil.",
       "price": 258.99,
       "category": 6,
-      "rating": 4.5,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llopskl%c3%a4nningar-mode-brud-sl%c3%b6ja-1486256/",
       "image": "VIE19.jpg"
     }
