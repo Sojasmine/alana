@@ -74,6 +74,7 @@ This website offers more than 100 items in their store.
    * To quickly understand the purpose of the website.
    * To navigate through the site easily and clearly.
    * To find or search for items that are related to the wedding.
+   * To be able to rate a review about a product. 
    * Contact support for help.
    * To do be able to shop without creating an account 
    * To be able to register an account if I want to.
@@ -364,6 +365,10 @@ This website offers more than 100 items in their store.
   ![Database Schema](screenshot/prodmo.png)
 
 
+
+  * Product Review model
+
+  ![Review](screenshot/review.jpeg)
 
 
  [Back to Table of contents](#Table-of-Contents)
@@ -669,10 +674,14 @@ Solution from tutor support:
 
   * Code snippet from [codepen](https://img.icons8.com/cute-clipart/100/000000/bug.png) for my error pages 403.404 and 500.
 
+  * Code snippet from [The Book Store](https://github.com/EllyC20/The-BookStore-MS4) for the review custom model. 
+
+  * Thanks to [Coding Stuff](https://www.youtube.com/watch?v=reFJ9hBLFUY&t=514s) for great tutorila about rating a product. 
+
 
 * Support:
 
-  * Great thanks to Igor C, Kevin and Fatima from Code Institute for helping me to solve my problem. 
+  * Great thanks to Igor C, Kevin, Sean, Joahnn and Fatima from Code Institute for helping me to solve my problem. 
 
   * Great thanks to [Anders Jansson](https://www.linkedin.com/in/maximoanders/) and my family for testing the functionality of my website. 
 
