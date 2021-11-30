@@ -37,11 +37,6 @@
                     </a>
                 </p>
                 {% endif %}
-                {% if product.rating %}
-                <small class="text-muted"><i class="fas fa-star mr-1"></i>{{ product.rating }} / 5</small>
-                {% else %}
-                <small class="text-muted">No Rating</small>
-                {% endif %}
                 {% if request.user.is_superuser %}
                 <small class="ml-3">
                     <a href="{% url 'edit_product' product.id %}"><i class="fas fa-pencil-alt" data-toggle="tooltip"
@@ -117,6 +112,52 @@
         </div>
     </div>
 </div>
+<!--Review-->
+<div class="container">
+    <div class="row">
+        <div class="col-12 review-div">
+            <!-- Review display section -->
+            <h4 class="Text-muted text-center">Customer Reviews</h4>
+            <hr>
+            <p>
+                {% if not product.reviews.all %}
+                No Rating Yet! Be the first to rate this product.<br>
+                {% else %}
+                <div class="review-detail">
+                    {% for review in product.reviews.all %}
+                    <div class="card">
+                        <h5 class="card-header"><em>Posted by:</em> <strong>{{ review.user.username }}</strong> </h5>
+                        <div class="card-body">
+                          <h5 class="card-title">{{ review.title }}</h5>
+                          <p class="card-text">{{ review.content }}</p>
+                          <div class="product-stars text-warning" data-value="{{ review.rating }}"></div>
+                        </div>
+                    </div>
+                    <br>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </p>
+        </div>
+        <div class="col-12 review-div">
+            <!-- Review Form -->
+            <h4 class="Text-muted text-center">Rating</h4>
+            <hr>
+            {% if request.user.is_authenticated %}
+                <form method="POST" action="{% url 'review' product.id %}#reviews">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <div class="text-right">
+                        <button class="btn btn-black rounded-0 text-capitalize mt-5" type="submit">Submit</button>
+                    </div>
+                </form>
+            {% else %}
+                <p class="text-center">Please <a class="link-normal" href="{% url 'account_signup' %}">Register</a> or <a class="link-normal" href="{% url 'account_login' %}">Login</a> to leave a review.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
 {% endblock %}
 
 {% block postloadjs %}
@@ -124,6 +165,26 @@
 <script>
     $(document).ready(function () {
         $('[data-toggle="tooltip"]').tooltip();
+    });
+</script>
+<!--rating stars-->
+<script>
+    const productStars = document.querySelectorAll('.product-stars');
+
+    productStars.forEach(rating => {
+        const ratingValue = parseInt(rating.dataset.value);
+        const fullStar = ratingValue;
+        let stars = '';
+
+        for (let i = 1; i < 6; i++) {
+            if (i <= fullStar) {
+                stars += `<i class="fas fa-star"></i>`;
+            } else {
+                stars += `<i class="far fa-star"></i>`;
+            }
+        }
+
+        rating.innerHTML = stars;
     });
 </script>
 
